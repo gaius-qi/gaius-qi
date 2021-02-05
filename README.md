@@ -17,5 +17,4 @@
 
 Live well, love lots and laugh often.
 
-[![Gaius Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaius-qi)](https://github.com/anuraghazra/github-readme-stats)
-
+[![gaius's github stats](https://github-readme-stats.vercel.app/api?username=gaius-qi)](https://github.com/gaius-qi)
