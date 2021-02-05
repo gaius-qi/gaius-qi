@@ -17,4 +17,4 @@
 
 Live well, love lots and laugh often.
 
-[![gaius's github stats](https://github-readme-stats.vercel.app/api?username=gaius-qi)](https://github.com/gaius-qi)
+[![gaius's github stats](https://github-readme-stats.vercel.app/api?username=gaius-qi&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/gaius-qi)
