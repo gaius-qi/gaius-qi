@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/gaius-qi?template=classic&notable=1&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FShanghai)
+![Metrics](https://metrics.lecoq.io/gaius-qi?template=classic&lines=1&notable=1&config.timezone=Asia%2FShanghai)
